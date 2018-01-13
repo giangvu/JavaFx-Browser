@@ -1,6 +1,6 @@
 /**
  * File name: FileUtils.java
- * Author: Truong Giang Vu - 040885372
+ * Author: Giang Vu
  * Course: CST8284 - Object-Oriented Programming (Java)
  * Assignment: 2
  * Date: 01/12/2018
