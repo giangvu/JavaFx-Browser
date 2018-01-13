@@ -1,7 +1,7 @@
 /**
  * File name: WebPage.java
  * Author: David Houtman
- * Updated by: Truong Giang Vu - 040885372
+ * Updated by: Giang Vu
  * Course: CST8284 - Object-Oriented Programming (Java)
  * Assignment: 2
  * Date: 01/12/2018
